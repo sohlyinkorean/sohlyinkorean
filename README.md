@@ -1,6 +1,6 @@
 ### 안녕!
 
-Korean American 🇰🇷🇰🇷 **/** Ninjago fan (ALL versions.) **/** YouTuber with 44.1K subs **/** 18 years old 
+Korean American 🇰🇷🇺🇸 **/** Ninjago fan (ALL versions.) **/** YouTuber with 44.1K subs **/** 18 years old 
 
 **소리** is pronounced **“soh-ly”**. It means **sound**, hence my name **"sohlyinkorean"**.
  󠁛󠀣󠀴󠁤󠀰󠀹󠀷󠁡󠀬󠀣󠀸󠁡󠁣󠁥󠁦󠁣󠁝
