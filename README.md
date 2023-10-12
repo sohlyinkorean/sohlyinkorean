@@ -1,4 +1,5 @@
-### 안녕! <picture>
+### 안녕! 
+<picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/m9Ge5DK.png" width="100" height="100">
  <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/m9Ge5DK.png" width="100" height="100">
  <img alt="Emoji of Sohly (me)!" src="https://i.imgur.com/m9Ge5DK.png" width="100" height="100">
