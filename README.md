@@ -1,3 +1,9 @@
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/m9Ge5DK.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/m9Ge5DK.png">
+ <img alt="Emoji of Sohly (me)!" src="https://i.imgur.com/m9Ge5DK.png">
+</picture>
+
 ### 안녕!
 
 Korean American 🇰🇷🇺🇸 **/** Ninjago fan (ALL versions.) **/** YouTuber with 44.1K subs **/** 18 years old 
